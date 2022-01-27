@@ -12,7 +12,7 @@ export default function Home() {
   return (
     <>
       <head>
-        <meta http-equiv="refresh" content="3" ></meta>
+        <meta httpEquiv="refresh" content="3" ></meta>
       </head>
       <div className='container'>
         <div className='titulo-principal'>
